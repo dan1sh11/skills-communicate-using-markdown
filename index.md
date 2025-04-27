@@ -8,3 +8,8 @@ I made pull request, then I added a h1 header to this file.
 def hello():
   print('hello world')
 ```
+
+- [x] Acknowledge your weaknesses
+- [ ] Create an impeccable physique  
+- [ ] Become wiser  
+- [ ] Let the world admire!
